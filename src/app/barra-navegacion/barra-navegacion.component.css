@@ -1,0 +1,35 @@
+.navbar{
+    padding: 5px 5px 5px 5px;
+}
+
+.navleft{
+    display: flex;
+    align-items: center;
+    width: 50%;
+}
+
+.icon{
+    width: 10%;
+    height: auto;
+    border-radius: 15%;
+}
+
+.navleft *{
+    margin-right: 5%;
+}
+
+.navright{
+    display: flex;
+    justify-content: end;
+    width: 50%;
+}
+
+.navright input{
+    width: 50%;
+}
+
+.navright button{
+    width: auto;
+    margin: 0 5px 0 5px;
+    border-radius: 15%;
+}
