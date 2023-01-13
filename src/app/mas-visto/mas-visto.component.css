@@ -1,5 +1,8 @@
 *{
-    margin: 2% 0 0 0;
+    margin: 0 0 0 0;
+    background-color: aqua;
+    width: 100%;
+    height: auto;
 }
 
 .carosel{
@@ -8,7 +11,9 @@
 }
 
 img{
-    width: 15%;
+    width:20%;
+    height: 18rem;
+    padding: 5px 5px 5px 5px;
 }
 
 .carosel{
